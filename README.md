@@ -1,4 +1,4 @@
-# backend-jr-smartnx
+# user-post-comment-system
 
 ## Descrição
 
@@ -15,8 +15,8 @@ API Node.js com autenticação JWT, CRUD de usuários, posts e comentários, usa
 1. **Clone o repositório:**
 
    ```sh
-   git clone https://github.com/gabrielheifel/backend-jr-smartnx.git
-   cd backend-jr-smartnx
+   git clone https://github.com/gabrielheifel/user-post-comment-system.git
+   cd user-post-comment-system
    ```
 
 2. **Instale as dependências:**
